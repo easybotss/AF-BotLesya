@@ -1,0 +1,15 @@
+{
+  "name": "autofightlesya",
+  "version": "1.0.0",
+  "description": "Авто-Бой питомцев",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "Sergey Volkov",
+  "license": "MIT",
+  "dependencies": {
+    "@vk-io/hear": "^1.1.1",
+    "vk-io": "^4.8.3"
+  }
+}
